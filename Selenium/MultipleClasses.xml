@@ -1,0 +1,12 @@
+<suite name="test">
+<test name="End-End">
+<classes>
+<class name="testng.Get_Title">
+</class>
+<class name="testng.Click_Links">
+</class>
+<class name="testng.isDisplayed">
+</class>
+</classes>
+</test>
+</suite>

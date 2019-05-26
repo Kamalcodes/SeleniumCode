@@ -1,0 +1,11 @@
+
+<suite name="RegressionSuite" verbose="1">
+<test name="RegressionTestCases">
+<packages>
+	<package name="com.regression"/>
+	</packages>
+	</test>
+	</suite>
+	
+	
+	
