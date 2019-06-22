@@ -32,7 +32,7 @@ public void beforeTest() throws InterruptedException
 	  System.setProperty("webdriver.chrome.driver", "E:\\dwnloads\\selenium\\Packages\\chromedriver.exe");
 	  driver =new ChromeDriver();
 	  Thread.sleep(2000);
-	 driver.get("https://mbox01.valuelabs.com/");
+	 driver.get("https://");
 	 driver.manage().window().maximize();
 	 
 	 driver.findElement(By.xpath("//*[@id=\"username\"]")).sendKeys("");
