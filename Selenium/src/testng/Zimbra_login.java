@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import webdriver.Dropdown_Handling;
 
-public class Zimbra_login {
+public class Z_login {
 	WebDriver driver;
 	
 	 
