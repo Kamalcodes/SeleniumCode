@@ -1,0 +1,79 @@
+1
+Java Essentials for Selenium
+	•	Introduction to classes and objects 
+	•	OOPs Concepts 
+	•	Abstraction 
+	•	Polymorphism 
+	•	Inheritance 
+	•	Encapsulation
+Shubham
+2
+Drivers 
+	•	Setting up Drivers 
+	•	Chrome 
+	•	Firefox 
+	•	SafariDriver 
+	•	Edge 
+	•	Internet Explorer
+Shubham
+3
+Locators 
+	•	ID 
+	•	Name 
+	•	Linktext 
+	•	Partial Linktext 
+	•	Tag Name 
+	•	Class Name 
+	•	CSS Selector 
+	•	Xpath 
+Kamaljeet
+4
+Interactions 
+	•	click() 
+	•	getText() 
+	•	SendKeys() 
+	•	getAttribute() 
+	•	driver Interactions
+Sreenivas
+5
+Select Elements 
+	•	Single select dropdown 
+	•	Multi-select dropdown
+Sreenivas
+6
+Synchronization 
+	•	Implicit Wait 
+	•	Explicit Wait 
+	•	Fluent Wait
+Sreenivas
+7
+Actions - Mouse Click & Keyboard Events 
+Shubham
+8
+Managing windows
+	•	Alert & Popup Window Handling 
+	•	iFrame – switchTo
+ 
+9
+JavaScriptExecutor in Selenium 
+Shubham
+10
+Reporting 
+	•	Creating Extent Reports 
+	•	Screenshots – Taking a screenshot
+Sreenivas
+11
+TestNG Framework 
+	•	Introduction to TestNG framework 
+	•	Annotations 
+	•	Parameters 
+	•	Assert class 
+	•	Parallel Execution 
+Kamaljeet
+12
+Page Object Model (POM) 
+	•	What is Page Object Model (POM)? 
+	•	Concept of Object Repository 
+	•	Implementing POM 
+ 
+	◦	
